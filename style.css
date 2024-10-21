@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    width: 500px;
+    height: 400px;
+}
+.div1{
+    background-color: rgb(255, 10, 194);
+    width: 100px;
+    height: 100px;
+
+}
+.green{
+    color: rgb(42, 238, 42);
+}
